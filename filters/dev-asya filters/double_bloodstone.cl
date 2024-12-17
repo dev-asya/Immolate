@@ -1,4 +1,4 @@
-// Searches for any seed with 2 Bloodstone Jokers early ish.
+// Searches for any seed with 2 Bloodstone Jokers early ish. (For practice writing filters)
 
 
 #include "lib/immolate.cl"

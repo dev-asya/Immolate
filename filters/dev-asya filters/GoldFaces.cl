@@ -1,4 +1,4 @@
-// Speedrunning seeds for Set Seed Skips
+// Seeds containing Pareidolia, Midas Mask, and Vampire in the first 2 antes.
 #include "lib/immolate.cl"
 long filter(instance* inst) {
     long passedFilters = 0;
